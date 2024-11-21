@@ -1,0 +1,10 @@
+:root{
+    --header: black;
+    --padd: 20px;
+    --background: linear-gradient(to right, violet, blueviolet);
+}
+
+body{
+    color: white;
+    background-image: var(--background);
+}
