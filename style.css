@@ -19,3 +19,11 @@ header.h {
   h1.title {
     text-align: center;
   }
+  aside.descrip{
+    color: white;
+    padding: var(--padd);
+    text-align: center;
+    background-color: darkgray;
+    border: solid 0px;
+    border-radius: 50px;
+}
