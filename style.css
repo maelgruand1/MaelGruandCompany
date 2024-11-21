@@ -34,3 +34,7 @@ button{
     border-collapse: collapse;
     
 }
+iframe{
+  text-align: center;
+  align-items: center;
+}
