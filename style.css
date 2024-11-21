@@ -41,7 +41,7 @@ iframe{
 aside.detail{
   background-color: antiquewhite;
   color: black;
-  position: fixed;
+  position: absolute;
   right: 20px;
 }
 footer.foot{
