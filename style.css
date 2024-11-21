@@ -8,11 +8,12 @@ body{
     color: white;
     background-image: var(--background);
 }
-header{
+header.h{
     color: red;
     border: solid 0px;
     border-radius: 50px;
     background-color: var(--header);
+    padding: var(--padd);
 }
 h1.title{
     text-align: center;
