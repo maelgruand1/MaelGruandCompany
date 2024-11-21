@@ -8,3 +8,12 @@ body{
     color: white;
     background-image: var(--background);
 }
+header{
+    color: red;
+    border: solid 0px;
+    border-radius: 50px;
+    background-color: var(--header);
+}
+h1.title{
+    text-align: center;
+}
