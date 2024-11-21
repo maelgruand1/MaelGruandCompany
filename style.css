@@ -38,3 +38,14 @@ iframe{
   text-align: center;
   align-items: center;
 }
+aside.detail{
+  background-color: antiquewhite;
+  color: black;
+  position: fixed;
+  right: 20px;
+}
+footer.foot{
+  padding: var(--padd);
+  color: white;
+  background-color: var(--header);
+}
